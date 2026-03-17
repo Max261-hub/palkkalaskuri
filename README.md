@@ -8,6 +8,13 @@ Tämä ohjelmisto on kehitetty osana ohjelmistokehityksen osaamisnäyttöä. Sov
 - **Kuittihistoria:** Tallentaa kaikki laskelmat SQLite-tietokantaan.
 - **PDF-vienti:** Luo virallisen palkkalaskelman ladattavassa PDF-muodossa.
 
+## jätkökehitykset
+- Dynaaminen Dashboard: Automaattinen graafinen seuranta tallennetuista tuloista.
+
+- Liiketoiminta-äly: Sovellus sisältää YEL-vakuutusrajan seurannan ja varoittaa käyttäjää velvoitteista.
+
+- Data-analyysi: Hyödynnetään pandas-kirjastoa datan muokkaamiseen ja st.bar_chart-työkalua visualisointiin.
+
 ## Tekniset ratkaisut
 - **Kieli:** Python
 - **Käyttöliittymä:** Streamlit
@@ -19,6 +26,7 @@ Tämä ohjelmisto on kehitetty osana ohjelmistokehityksen osaamisnäyttöä. Sov
 1. Kloonaa repositorio
 2. Asenna riippuvuudet: `pip install -r requirements.txt`
 3. Käynnistä sovellus: `streamlit run app.py`
+
 
 ## Oppimispäiväkirja (Virheenkorjaus)
 Kehityksen aikana havaittiin kriittinen virhe PDF-tiedoston latauksessa (`StreamlitAPIException`). 
