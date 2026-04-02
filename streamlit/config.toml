@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#ff7f0e"              # Oranssi korosteväri (accent)
+backgroundColor = "#ffffff"           # Valkoinen tausta
+secondaryBackgroundColor = "#0a4b61"  # Teal-sininen (sidebar/osiot)
+textColor = "#31333F"                 # Tummanharmaa teksti
+font = "sans serif"                   # Moderni, puhdas kirjasin
