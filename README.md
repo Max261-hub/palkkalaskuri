@@ -6,7 +6,7 @@ Sovellus on suunniteltu kevytyrittäjille helpottamaan laskutuksen, verojen ja n
 
 ---
 
-## 🎯 Projektin tavoitteet
+## Projektin tavoitteet
 
 - Rakentaa **toimiva ja turvallinen kirjautumisjärjestelmä**
 - Toteuttaa **palkkalaskuri**, joka huomioi:
@@ -21,7 +21,7 @@ Sovellus on suunniteltu kevytyrittäjille helpottamaan laskutuksen, verojen ja n
 
 ---
 
-## 🧩 Teknologiat
+## Teknologiat
 
 | Osa | Teknologia |
 |-----|------------|
@@ -48,7 +48,7 @@ Sovellus on suunniteltu kevytyrittäjille helpottamaan laskutuksen, verojen ja n
 
 ---
 
-## 🔐 Käyttäjähallinta
+## Käyttäjähallinta
 
 - Käyttäjä voi **rekisteröityä** ja **kirjautua sisään**
 - Salasana tallennetaan **SHA-256 hashina**
